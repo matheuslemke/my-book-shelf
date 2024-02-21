@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  subtitle: MyString
+  author: MyString
+  started_date: 2024-02-21 21:40:53
+  finished_date: 2024-02-21 21:40:53
+  total_chapters: 1
+  readed_chapters: 1
+
+two:
+  title: MyString
+  subtitle: MyString
+  author: MyString
+  started_date: 2024-02-21 21:40:53
+  finished_date: 2024-02-21 21:40:53
+  total_chapters: 1
+  readed_chapters: 1
