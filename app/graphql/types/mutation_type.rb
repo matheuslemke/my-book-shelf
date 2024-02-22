@@ -2,6 +2,7 @@
 
 module Types
   class MutationType < Types::BaseObject
+    field :book_delete, mutation: Mutations::BookDelete
     field :book_update, mutation: Mutations::BookUpdate
     field :book_create, mutation: Mutations::BookCreate
     # TODO: remove me
